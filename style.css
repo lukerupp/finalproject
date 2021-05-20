@@ -1,0 +1,35 @@
+h1 {
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  #loginButton {
+    float: right;
+  }
+  #tweetLocation {
+    border: 2px solid black;
+    width: 1000px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: blue;
+  }
+  #leftArrow {
+    height: 400px;
+    opacity: .6;
+  }
+  #rightArrow {
+    float: right;
+    height: 400px;
+    opacity: .6;
+  }
+  #loginNoAttempt {
+    border: 2px solid #DA2127;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    color: #003A73;
+    
+  }
+  html {
+    background-color: white;
+  }
